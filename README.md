@@ -1,4 +1,4 @@
-# :octocat: Python Fundamentals Notes / Anotações dos meus estudos de fundamentos em Python
+# :octocat: Anotações dos meus estudos de fundamentos em Python
 
 Olá! Nesse repositório estou alocando todas as minhas anotações e exercícios durante meu trajeto de estudos na plataforma DIO sobre os fundamentos em Python, onde aprendi:
 ### :fire: Estruturas de dados
@@ -9,6 +9,7 @@ O objetivo desse repositório é documentar minha trajetória de aprendizagem e 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# :octocat: Python Fundamentals Notes 
 Hello! In this repository, I’m storing all my notes and exercises from my learning journey on the DIO platform about Python fundamentals, where I learned:
 ### :fire: Data Structures
 ### :fire: Object-Oriented Programming (OOP)
